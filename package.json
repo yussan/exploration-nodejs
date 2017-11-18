@@ -1,0 +1,23 @@
+{
+  "name": "exploration-nodejs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "# Coverage directory used by tools like istanbul",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussan/exploration-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exploration"
+  ],
+  "author": "yussan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yussan/exploration-nodejs/issues"
+  },
+  "homepage": "https://github.com/yussan/exploration-nodejs#readme"
+}
